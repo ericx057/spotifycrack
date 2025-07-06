@@ -1,6 +1,7 @@
 # Spotify Playlist Downloader
 
 A Python tool to download Spotify playlists as MP3 files. The program extracts playlist metadata from Spotify and downloads the audio from YouTube, then packages everything into a convenient zip file.
+README written by ChatGPT
 
 **Note: For personal use only - not for commercial purposes**
 
@@ -37,12 +38,12 @@ On first run, you'll be prompted to enter your Spotify credentials. They'll be s
 
 ## Features
 
-- ✅ Downloads entire playlists automatically
-- ✅ Converts to MP3 format locally
-- ✅ Creates organized zip files
-- ✅ Handles special characters in filenames
-- ✅ Shows download progress
-- ✅ Error handling for failed downloads
+- Downloads entire playlists automatically
+- Converts to MP3 format locally
+- Creates organized zip files
+- Handles special characters in filenames
+- Shows download progress
+- Error handling for failed downloads
 
 ## Requirements
 
